@@ -1,0 +1,71 @@
+ar:
+  numbers:
+    ones: [صفر, واحد, اثنان, ثلاثة, أربعة, خمسة, ستة, سبعة, ثمانية, تسعة]
+    teens: [_, أحد عشر, اثنا عشر, ثلاثة عشر, أربعة عشر, خمسة عشر, ستة عشر, سبعة عشر, ثمانية عشر, تسعة عشر]
+    tens: [_, عشرة, عشرون, ثلاثون, أربعون, خمسون, ستون, سبعون, ثمانون, تسعون]
+    hundreds: مئة
+    mega: [_, ألف, مليون, مليار, ترليون, كدريليون, كوينتيليون, سكستليون, سبتيليون, أكتليون, nonillion, decillion, undecillion, duodecillion, tredecillion, quattuordecillion]
+    ordinal:
+      ones: [صفري, أول, ثاني, ثالث, رابع, خامس, سادس, سابع, ثامن, تاسع]
+      teens: [العاشر, الحاديه عشر, الثاني عشر, الثالث عشر, الرابع عشر, الخامس عشر, السادس عشر, السابع عشر, الثامن عشر, التاسع عشر]
+      tens: [_, العاشر, العشرون, الثلاثون, الأربعون, الخمسون, الستون, السبعون, الثمانون, التسعون]
+      hundreds: المائة
+      mega: [_, الألف, المليون, المليار, التريليون, الكدريليون, الكوينتيليون, السكستليون, السبتيليون, الأكتليون, nonillionth, decillionth, undecillionth, duodecillionth, tredecillionth, quattuordecillionth]
+    micro: [_, أعشار, جزء من مئة, جزء من ألف, جزء من المليون, جزء من المليار, جزء من التريليون, جزء من الكدريليون, جزء من الكوينتيليون, جزء من السكستليون, جزء من السبتيليون, جزء من الأكتليون, nonillionths, decillionths, undecillionths, duodecillionths, tredecillionths, quattuordecillionths]
+    tenths:
+      one: أعشار
+      other: أعشار
+    hundredths:
+      one: جزء من مئة
+      other: جزء من مئة
+    thousandths:
+      one: جزء من ألف
+      other: جزء من ألف
+    millionths:
+      one: جزء من المليون
+      other: جزء من المليون
+    billionths:
+      one: جزء من المليار
+      other: جزء من المليار
+    trillionths:
+      one: جزء من التريليون
+      other: جزء من التريليون
+    quadrillionths:
+      one: جزء من الكدريليون
+      other: جزء من الكدريليون
+    quintillionths:
+      one: جزء من الكوينتيليون
+      other: جزء من الكوينتيليون
+    sextillionths:
+      one: جزء من السكستليون
+      other: جزء من السكستليون
+    septillionths:
+      one: السبتيليون
+      other: السبتيليون
+    octillionths:
+      one: جزء من الأكتليون
+      other: جزء من الأكتليون
+    nonillionths:
+      one: nonillionth
+      other: nonillionths
+    decillionths:
+      one: decillionth
+      other: decillionths
+    undecillionths:
+      one: undecillionth
+      other: undecillionths
+    duodecillionths:
+      one: duodecillionth
+      other: duodecillionths
+    tredecillionths:
+      one: tredecillionth
+      other: tredecillionths
+    quattuordecillionths:
+      one: quattuordecillionth
+      other: quattuordecillionths
+    micro_separator: و
+    micro_prefix:
+      tens: ten
+      hundreds: hundred
+      union: '-'
+    union: و
